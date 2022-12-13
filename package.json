@@ -1,0 +1,47 @@
+{
+    "name": "System-Modmail",
+    "version": "1.0.0",
+    "description": "Description By Snykov",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Snykov/System-Modmail.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Snykov/System-Modmail/issues"
+    },
+    "homepage": "https://github.com/Snykov/System-Modmail#readme",
+    "dependencies": {
+      "@eartharoid/i18n": "^1.0.0",
+      "@recras/online-booking-js": "^1.8.3",
+      "cheerio": "^1.0.0-rc.10",
+      "config.json": "0.0.4",
+      "cryptr": "^6.0.2",
+      "dateformat": "^4.5.1",
+      "discord-rpc": "^4.0.1",
+      "discord.js": "^12.5.3",
+      "dotenv": "^10.0.0",
+      "enmap": "^5.8.7",
+      "express": "^4.17.1",
+      "index.js": "0.0.3",
+      "leeks.js": "^0.2.2",
+      "leekslazylogger-fastify": "^0.1.1",
+      "mongoose": "^5.13.3",
+      "mysql": "^2.18.1",
+      "no-internet": "^1.6.1",
+      "node-fetch": "^2.6.1",
+      "node-vk-bot-api": "^3.5.0",
+      "online": "0.0.1",
+      "port": "^0.8.1",
+      "quick.db": "^7.1.3",
+      "request": "^2.88.2",
+      "request-promise": "^4.2.6"
+    }
+  }
+  
