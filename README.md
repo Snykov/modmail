@@ -14,7 +14,6 @@
 
 - Undefinited
 
-
 ## Installing
 
 For the latest stable version:
