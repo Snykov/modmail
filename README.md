@@ -23,4 +23,3 @@ For the latest stable version:
 npm install discord.js
 
 ```
-
