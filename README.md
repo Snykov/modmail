@@ -1,4 +1,4 @@
-: Javascript Discord.js
+:: Javascript Discord.js
 
 ## ModMail 
 
